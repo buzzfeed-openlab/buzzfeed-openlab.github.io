@@ -44,9 +44,3 @@ Ben has worked on a range of immersive, interactive, and spatial storytelling pr
 Christine Sunu
 
 Open Lab / GE Internet of Things Fellow
-
-
-Christine's research is focused on the links between emotion, design, media, and IoT. She writes and speaks widely about the importance of human connection—to technology, to ourselves, and to others. In the past, Christine has designed developer experiences, run IoT workshops, sequenced human genomes, conducted patient interviews, and killed thousands of fruit flies in the name of science. She currently lives in San Francisco and builds emotive interfaces for internet connected technology.
-
-Emotive Circuits
-Emotive Circuits is a collection of objects that showcase internet connected technology in soft and unusual forms. In her research at the Open Lab, Christine has examined the potential of the Internet of Things to augment existing objects of emotional importance and convey information through natural, life-based interfaces. Her interactive collection of plush toys, sculptures, and everyday objects is meant to exemplify this research. Please feel free to wander the space and interact with the exhibit.

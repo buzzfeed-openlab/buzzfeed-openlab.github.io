@@ -41,6 +41,7 @@ body {
 .carousel {
   height: 500px;
   margin-bottom: 60px;
+  background-image: url("imgs/bg.jpg");
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -129,6 +130,6 @@ body {
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+    margin-top: 0;
   }
 }
