@@ -31,7 +31,10 @@ What if your body is an interface, and the environment is an agent? Ainsley has 
 Ben Kreimer
 Open Lab Beta Fellow
 
-Ben explores the unique perspectives, visual experiences, and storytelling potential of drones, 3D reconstructions, 360-degree video, 3D virtual reality, and open-source hardware sensor platforms. He is an adviser for the Drone Journalism Lab and African skyCAM, and has worked with academic institutions and organizations including Columbia’s Tow Center for Digital Journalism, Times of India, CCTV Africa, VICE News, African Wildlife Foundation, and the Antiochia ad Cragum Archaeological Research Project.
+Ben Kreimer explores the unique perspectives, visual experiences, and storytelling potential of drones, 3D reconstructions, 360-degree video, 3D virtual reality, and open-source hardware sensor platforms.
+
+
+ He is an adviser for the Drone Journalism Lab and African skyCAM, and has worked with academic institutions and organizations including Columbia’s Tow Center for Digital Journalism, Times of India, CCTV Africa, VICE News, African Wildlife Foundation, and the Antiochia ad Cragum Archaeological Research Project.
 
 
 Tools for Spatial and Immersive Storytelling
@@ -41,6 +44,19 @@ Ben has worked on a range of immersive, interactive, and spatial storytelling pr
 
 -----------------------------------
 
-Christine Sunu
+Christine Sunu, Open Lab / GE Fellow, focuses on the links between emotion, design, and technology. In the Open Lab this year she built emotive interfaces for internet connected technology. Emotive Circuits is a collection of objects that that showcase internet connected technology in soft and unusual forms.
 
-Open Lab / GE Internet of Things Fellow
+<p class="lead">Christine's research is focused on the links between emotion, design, media, and IoT. She writes and speaks widely about the importance of human connection—to technology, to ourselves, and to others. In the past, Christine has designed developer experiences, run IoT workshops, sequenced human genomes, conducted patient interviews, and killed thousands of fruit flies in the name of science. She currently lives in San Francisco and builds emotive interfaces for internet connected technology.</p>
+<h2 class="featurette-heading">Emotive Circuits</h2>
+<p>Emotive Circuits is a collection of objects that showcase internet connected technology in soft and unusual forms. In her research at the Open Lab, Christine has examined the potential of the Internet of Things to augment existing objects of emotional importance and convey information through natural, life-based interfaces. Her interactive collection of plush toys, sculptures, and everyday objects is meant to exemplify this research. Please touch the exhibit.</p>
+</div>
+
+-----------------------
+
+Westley Hennigh-Palermo is interested in finding new ways for newsrooms to engage people in conversation and talk about complex systems that don't lend themselves to simple narratives. At the Open Lab Wes has worked on a series of bots and games, including BUZZBOT and SH*T VCS SAY.
+
+. In the past he has helped build a variety of independent games, educational simulations, and tools for data scientists. </p>
+
+  <h2 class="featurette-heading">Bots and Games</h2>
+  <p>At the Open Lab Westley has worked on projects including bots, games, and tools for journalists. The largest of these was BuzzBot, a Facebook Messenger bot that BuzzFeed News deployed during the RNC and DNC. BuzzBot facilitated conversation between journalists and thousands of people who were watching from home, protesting outside, or actually attending as delegates. You can chat with BuzzBot tonight and check out other work from Westley including a game about "Shit VCs Say" and an interactive exploration of influence in Congress.</p>
+</div>
