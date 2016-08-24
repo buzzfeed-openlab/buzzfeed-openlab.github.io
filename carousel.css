@@ -8,6 +8,22 @@ body {
 }
 
 
+h1 {
+  font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+  font-weight: bolder;
+  font-size: 350%;
+  color: #56c2bb;
+}
+.show {
+  color: #56c2bb;
+}
+.and {
+  color: #DE0F76;
+}
+.tell {
+  color: #ffc509;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -18,6 +34,18 @@ body {
   right: 0;
   left: 0;
   z-index: 20;
+  background-color: #DE0F76;
+
+}
+
+.navbar-inverse, .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #DE0F76;
+    background-color: #DE0F76;
+    color: #FFF;
+}
+
+.navbar-inverse .navbar-nav > li, .navbar-inverse .navbar-nav > li > a {
+  color: #FFF;
 }
 
 /* Flip around the padding for proper display in narrow viewports */
